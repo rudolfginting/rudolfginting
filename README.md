@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Rudolf 👋
 
-<!--
-**rudolfginting/rudolfginting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fresh Graduate in Informatics Engineering with strong interest in Software Quality Assurance.
 
-Here are some ideas to get you started:
+## Skills
+- Manual Testing
+- Functional Testing
+- Regression Testing
+- API Testing (Postman)
+- Bug Reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+- QA Web Testing Portfolio
